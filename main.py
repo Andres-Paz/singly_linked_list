@@ -1,6 +1,6 @@
-from lista import Lista
+from linked_list import LinkedList
 
-numeros = Lista()
+numeros = LinkedList()
 
 numeros.insertar_inicio(11)
 numeros.insertar_inicio(3)
