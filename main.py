@@ -1,4 +1,4 @@
-from listas import Lista
+from lista import Lista
 
 numeros = Lista()
 
